@@ -32,11 +32,13 @@ import { initializeAllRequests } from './index-init'
   initializeAllRequests()
 
   ReactDOM.render(
-    // <React.StrictMode>
+    <React.StrictMode>
+      {/* <hashRouter> */}
       <Provider store={store}>
         <App />
       </Provider>
-    // </React.StrictMode>
+      {/* </hashRouter> */}
+    </React.StrictMode>
     ,
     document.getElementById('root')
   )
