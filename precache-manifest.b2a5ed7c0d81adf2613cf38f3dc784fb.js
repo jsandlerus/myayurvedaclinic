@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1297795d2bd65aeabfd6e81f160a68b",
+    "revision": "c09379152ae9bdf0e2011c9a16f5172e",
     "url": "/myayurvedaclinic/index.html"
   },
   {
-    "revision": "f286bb6de9320883a3a7",
+    "revision": "2b627b56f1a1e0bc4493",
     "url": "/myayurvedaclinic/static/css/main.57b2870c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myayurvedaclinic/static/js/2.9d27a93d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f286bb6de9320883a3a7",
-    "url": "/myayurvedaclinic/static/js/main.ca57f826.chunk.js"
+    "revision": "2b627b56f1a1e0bc4493",
+    "url": "/myayurvedaclinic/static/js/main.d634955c.chunk.js"
   },
   {
     "revision": "8208a35563334c014d3e",

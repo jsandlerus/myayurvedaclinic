@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/myayurvedaclinic/precache-manifest.824584c617aa3410063ff0b3c9747098.js"
+  "/myayurvedaclinic/precache-manifest.b2a5ed7c0d81adf2613cf38f3dc784fb.js"
 );
 
 self.addEventListener('message', (event) => {
