@@ -1,17 +1,43 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from 'react'
+import ReactDOM from 'react-dom'
+import App from './App'
+import './index.css'
+import store from './components/redux/store'
+import { Provider } from 'react-redux'
+import { initializeAllRequests } from './index-init'
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
+// function getPlatform() {
+//   let platform = navigator.appVersion
+//   if (platform.indexOf('iPhone') !== -1 || platform.indexOf('iPad') !== -1 || platform.indexOf('Android') !== -1) {
+//     store.dispatch({ type: "SET_MOBILE" })
+//     return 'mobile'
+//   }
+//   else {
+//     return 'browser'
+//   }
+// }
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+// let platform = getPlatform()
+// if (platform === 'mobile') {
+//   ReactDOM.render(
+//     <h1 style={{"textAlign": 'center', 'transform': 'translateY(50%)'}}>
+//       This app sells bulk CBD products and as such is recommended for desktop use only. Register an account with us at
+//     <a className='light_green' href='tel:7205916284'>
+//         (720)591-6284
+//     </a>
+//     </h1>, document.getElementById("root"))
+
+// }
+// else {
+  initializeAllRequests()
+
+  ReactDOM.render(
+    // <React.StrictMode>
+      <Provider store={store}>
+        <App />
+      </Provider>
+    // </React.StrictMode>
+    ,
+    document.getElementById('root')
+  )
+// }
