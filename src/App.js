@@ -11,7 +11,7 @@ const App = () => (
 <Router>
   <Navbar />
     <Switch>
-    <Route path='' component={Home}/>
+    <Route path='/' component={Home}/>
       <Route path='/results' component={Results}/>
     </Switch>
     <Footer />
