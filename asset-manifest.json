@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/myayurvedaclinic/static/css/main.57b2870c.chunk.css",
+    "main.js": "/myayurvedaclinic/static/js/main.ca57f826.chunk.js",
+    "main.js.map": "/myayurvedaclinic/static/js/main.ca57f826.chunk.js.map",
+    "runtime-main.js": "/myayurvedaclinic/static/js/runtime-main.9f84d215.js",
+    "runtime-main.js.map": "/myayurvedaclinic/static/js/runtime-main.9f84d215.js.map",
+    "static/js/2.9d27a93d.chunk.js": "/myayurvedaclinic/static/js/2.9d27a93d.chunk.js",
+    "static/js/2.9d27a93d.chunk.js.map": "/myayurvedaclinic/static/js/2.9d27a93d.chunk.js.map",
+    "index.html": "/myayurvedaclinic/index.html",
+    "precache-manifest.824584c617aa3410063ff0b3c9747098.js": "/myayurvedaclinic/precache-manifest.824584c617aa3410063ff0b3c9747098.js",
+    "service-worker.js": "/myayurvedaclinic/service-worker.js",
+    "static/css/main.57b2870c.chunk.css.map": "/myayurvedaclinic/static/css/main.57b2870c.chunk.css.map",
+    "static/js/2.9d27a93d.chunk.js.LICENSE.txt": "/myayurvedaclinic/static/js/2.9d27a93d.chunk.js.LICENSE.txt",
+    "static/media/AldoOva.png": "/myayurvedaclinic/static/media/AldoOva.2b4e147c.png",
+    "static/media/AlejandraLopez.png": "/myayurvedaclinic/static/media/AlejandraLopez.c6265c9b.png",
+    "static/media/Ayurveda_Health_Logo.png": "/myayurvedaclinic/static/media/Ayurveda_Health_Logo.8df17fc4.png",
+    "static/media/CarmenClavelArcas.png": "/myayurvedaclinic/static/media/CarmenClavelArcas.a70b8fe6.png",
+    "static/media/CindyLeonCasab2.png": "/myayurvedaclinic/static/media/CindyLeonCasab2.33254439.png",
+    "static/media/FranciscoOttoni.png": "/myayurvedaclinic/static/media/FranciscoOttoni.a8caafa3.png",
+    "static/media/HectorBarbosa.png": "/myayurvedaclinic/static/media/HectorBarbosa.4360923e.png",
+    "static/media/IndyMena.png": "/myayurvedaclinic/static/media/IndyMena.f4848487.png",
+    "static/media/LauraZampedri.png": "/myayurvedaclinic/static/media/LauraZampedri.f82c9f6a.png",
+    "static/media/MariaJosePreisler.png": "/myayurvedaclinic/static/media/MariaJosePreisler.deff4838.png",
+    "static/media/Mendozaflor.png": "/myayurvedaclinic/static/media/Mendozaflor.23027f52.png",
+    "static/media/VirginiaAlvarez.png": "/myayurvedaclinic/static/media/VirginiaAlvarez.479ea3ad.png",
+    "static/media/WendySanchez.png": "/myayurvedaclinic/static/media/WendySanchez.d80cb10e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f84d215.js",
+    "static/js/2.9d27a93d.chunk.js",
+    "static/css/main.57b2870c.chunk.css",
+    "static/js/main.ca57f826.chunk.js"
+  ]
+}
