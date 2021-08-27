@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/myayurvedaclinic/static/css/main.57b2870c.chunk.css",
-    "main.js": "/myayurvedaclinic/static/js/main.03eb617e.chunk.js",
-    "main.js.map": "/myayurvedaclinic/static/js/main.03eb617e.chunk.js.map",
+    "main.js": "/myayurvedaclinic/static/js/main.1c7cde65.chunk.js",
+    "main.js.map": "/myayurvedaclinic/static/js/main.1c7cde65.chunk.js.map",
     "runtime-main.js": "/myayurvedaclinic/static/js/runtime-main.9f84d215.js",
     "runtime-main.js.map": "/myayurvedaclinic/static/js/runtime-main.9f84d215.js.map",
     "static/js/2.9d27a93d.chunk.js": "/myayurvedaclinic/static/js/2.9d27a93d.chunk.js",
     "static/js/2.9d27a93d.chunk.js.map": "/myayurvedaclinic/static/js/2.9d27a93d.chunk.js.map",
     "index.html": "/myayurvedaclinic/index.html",
-    "precache-manifest.08f20423745313ef9cf860f757ae5fc6.js": "/myayurvedaclinic/precache-manifest.08f20423745313ef9cf860f757ae5fc6.js",
+    "precache-manifest.9eb31e9667f70b2c1e663e542e541897.js": "/myayurvedaclinic/precache-manifest.9eb31e9667f70b2c1e663e542e541897.js",
     "service-worker.js": "/myayurvedaclinic/service-worker.js",
     "static/css/main.57b2870c.chunk.css.map": "/myayurvedaclinic/static/css/main.57b2870c.chunk.css.map",
     "static/js/2.9d27a93d.chunk.js.LICENSE.txt": "/myayurvedaclinic/static/js/2.9d27a93d.chunk.js.LICENSE.txt",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.9f84d215.js",
     "static/js/2.9d27a93d.chunk.js",
     "static/css/main.57b2870c.chunk.css",
-    "static/js/main.03eb617e.chunk.js"
+    "static/js/main.1c7cde65.chunk.js"
   ]
 }
