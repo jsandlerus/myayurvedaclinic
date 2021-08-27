@@ -7,7 +7,6 @@ import CindyLeon from '../resources/CindyLeonCasab2.png'
 import Fran from '../resources/FranciscoOttoni.png'
 import Hector from '../resources/HectorBarbosa.png'
 import Indy from '../resources/IndyMena.png'
-import Julieta from '../resources/JulietaSakti.png'
 import MariaJose from '../resources/MariaJosePreisler.png'
 import Flor from '../resources/Mendozaflor.png'
 import Virginia from '../resources/VirginiaAlvarez.png'
@@ -58,48 +57,41 @@ export const testimonials = [
     },
     {
         id: 6,
-        name: 'Julieta Sakti',
-        country: 'Mexico',
-        review: 'An excellent massage widely recommended.',
-        image: Julieta,
-    },
-    {
-        id: 7,
         name: 'Virginia Alvarez,',
         country: 'Mexico',
         review: 'You must come to visit this place, you will feel revitalized. The best medicinal massages.',
         image: Virginia,
     },
     {
-        id: 8,
+        id: 7,
         name: 'Hector Barbosa',
         country: 'Mexico',
         review: 'Excellent massages and detoxification techniques! The attention is personalized, they offer you the appropriate therapy for each case. It is something you can not miss.',
         image: Hector,
     },
     {
-        id: 9,
+        id: 8,
         name: 'Flor Mendoza',
         country: 'Flor',
         review: 'Namaste. The hands of my therapist were divine with great softness that makes the body feel pampered and cared for. For me it has been one of my greatest experiences with a specialized and also loving massage. From the first time I lay down on the stretcher I felt move to paradise .. Blessings. I hope others achieve this wonderful experience.',
         image: Flor,
     },
     {
-        id: 10,
+        id: 9,
         name: 'Maria Jose Preisler,',
         country: 'Argentina',
         review: 'Massages of excellence, with the attention of so beautiful beings! I recommend it with my eyes closed!.',
         image: MariaJose,
     },
     {
-        id: 11,
+        id: 10,
         name: 'Indy Mena',
         country: 'Nicaragua',
         review: 'The personal interest, warm customer service, comprehensive knowledge and professionalism made this experience so beneficial and enriching for me. The practical suggestions to improve health and well-being creates awareness in one to respect the body and live in the best way. Thank you guys for all your attention.',
         image: Indy,
     },
     {
-        id: 12,
+        id: 11,
         name: 'Alejandra Lopez',
         country: 'Mexico',
         review: 'I have found the best therapists here, always concerned about our well-being and willing to help us, just like Dr. Preeti Patel. For me, knowing them changed my life.',
